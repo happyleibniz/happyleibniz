@@ -1,6 +1,6 @@
 ### Hi there 👋 email:happyleibniz@outlook.com 📧
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=happyleibniz&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=happyleibniz&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) 
 
 <!--
 **happyleibniz/happyleibniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
