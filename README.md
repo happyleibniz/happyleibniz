@@ -4,6 +4,11 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=happyleibniz)](https://githubfast.com/happyleibniz/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyleibniz&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyleibniz&layout=pie)](https://githubfast.com/happyleibniz/github-readme-stats)
+
+[![happyleibniz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=happyleibniz)](https://githubfast.com/happyleibniz/github-readme-stats)
+
+
 <!--
 **happyleibniz/happyleibniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
